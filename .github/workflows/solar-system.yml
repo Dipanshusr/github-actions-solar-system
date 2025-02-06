@@ -16,7 +16,7 @@ jobs:
         name: Unit Testing
         runs-on: ubuntu-latest
         steps:
-        - name: Checkout Repository
+        - name: Checkout Repositorya
           uses: actions/checkout@v4
 
         - name: Setup NodeJS Version
